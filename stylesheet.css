@@ -1,5 +1,8 @@
-h1 {color: yellow;}
-h1{color: yellow;}
-h2{color: antiquewhite;}
-p{color:blueviolet;}
-body{background-color: lightblue;}
+h1 {color: #FFD300;}
+h2{color: #91A35C;}
+p{
+    color: #00FF54;
+    font-family: 'Redressed', cursive;
+    }
+body{background-color: #ff00ab;}
+
